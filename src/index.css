@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-top: 15px;
+  background-size: 1500px;
+  
+  border-radius: 70px;
+}
+
+code {
+  font-family: 'source-code-pro', 'Menlo', 'Monaco', 'Consolas', 'Courier New',
+    monospace;
+}
+
+
+.full{
+  background-color: #252525;
+  border-radius: 10px;
+  padding-bottom: 200px;
+
+}
+
+.login{
+  padding-top: 50px;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  position:relative;
+  padding-left:400px;
+  padding-right: 400px;
+  
+}
+
+.login--background{
+  background-color: rgba(174, 193, 236, 0.892);
+  justify-content: center;
+  position: relative;
+  align-self: center;
+  border-radius: 1em;
+}
+
+.title{
+  padding: 0px 650px;
+  
+}
+
+.musicx{
+  background-color: #0e054d;
+  border-radius: 15px;
+  text-align: center;
+}
+.login--content{ 
+  text-align: center;
+}
+
+.login--password{
+  padding-left: 650px;
+}
+
+
+
+.passw{
+  justify-content: center;
+}
+.login--password{
+  padding-right: 500px;
+}
+
+.butt1,.butt2{
+  padding-bottom:10px ;
+}
+
+.butt3{
+  padding-bottom:20px ;
+}
+
+.main--full{
+  border-radius: 10px;
+}
+.main{
+  padding-left: 20px;
+  background-image: url(./images/main.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+/* .main--bg{
+  background-image: url(./images/main.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+.main--title{
+  color:white ;
+  background-color: #200ca2;
+  border-radius: 20px 20px;
+  padding: 10px;
+  
+}
+
+.main--but{
+  padding-left: 1100px;
+  
+}
+
+.woohoo{
+  padding-top: 20px;
+  text-align: center;
+  
+  font-size: xx-large;
+  
+}
+.para{
+  text-align: center;
+}
+
+.login--card1{
+  padding-left: 210px;
+}
+.mainbut{
+  display: flex;
+  text-align: center;
+  padding: 0px 190px;
+}
+
+.second--half{
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.musicx--padding{
+  padding-top: 20px;
+}
+
